@@ -1,0 +1,30 @@
+.center {
+  max-width: 144rem;
+  margin: 0 auto;
+}
+
+.padding-sm {
+  padding: 3rem;
+}
+
+.padding-bm {
+  padding-bottom: 6rem;
+}
+
+.padding-tp {
+  padding-top: 10rem;
+}
+
+.primary__heading {
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+.secondary__heading {
+  font-size: 2.7rem;
+}
+
+.heading__text {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
