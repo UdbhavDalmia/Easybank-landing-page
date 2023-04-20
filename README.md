@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Olatoyan/easybank-landing-page-master)
-- Live Site URL: [Add live site URL here](https://toyan-easybank.netlify.app)
+- Solution URL: [Easybank solution](https://github.com/Olatoyan/easybank-landing-page-master)
+- Live Site URL: [Easybank landing page](https://toyan-easybank.netlify.app)
 
 ## My process
 
@@ -37,9 +37,9 @@ Users should be able to:
 
 ### Continued development
 
-How to work with mobile navigations
+How to work with well mobile navigations
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/olatoyan)
+- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
 - Twitter - [@_Annonnymouss_](https://www.twitter.com/_Annonnymouss_)
