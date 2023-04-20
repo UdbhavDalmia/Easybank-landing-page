@@ -7,10 +7,13 @@ const closeBtn = document.querySelector(".close-icon");
 
 const overlay = document.querySelector(".overlay");
 
+const closeOverlay = function () {
+  header.classList.remove("nav-open");
+};
+
 openBtn.addEventListener("click", function () {
   header.classList.add("nav-open");
 });
 
-closeBtn.addEventListener("click", function () {
-  header.classList.remove("nav-open");
-});
+closeBtn.addEventListener("click", closeOverlay);
+overlay.addEventListener("click", closeOverlay);
